@@ -17,7 +17,7 @@ The **Revenue Insights Dashboard** is a data analytics project that analyzes and
 ## Tech Stack
 - Python  
 - Pandas, NumPy  
-- Matplotlib / Plotly  
+- Matplotlib
 - Streamlit  
 - CSV Data  
 
