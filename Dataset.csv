@@ -1,0 +1,829 @@
+Date,City,Hotel_Name,Room_Type,Rooms_Booked,Rooms_Available,Revenue
+2024-01-01,Delhi,Radisson,Suite,34,111,312494
+2024-01-01,Delhi,Clarks,Standard,58,80,595370
+2024-01-01,Delhi,ITC Maurya,Suite,94,146,900332
+2024-01-01,Delhi,Maruya,Standard,22,83,125070
+2024-01-01,Delhi,Leela,Standard,43,61,470807
+2024-01-01,Delhi,Oberoi,Deluxe,79,123,823180
+2024-01-01,Mumbai,Radisson,Standard,77,135,800492
+2024-01-01,Mumbai,Clarks,Standard,78,108,511524
+2024-01-01,Mumbai,ITC Maurya,Deluxe,99,119,1385802
+2024-01-01,Mumbai,Maruya,Deluxe,66,121,462330
+2024-01-01,Mumbai,Leela,Suite,83,114,458824
+2024-01-01,Mumbai,Oberoi,Suite,26,110,244218
+2024-01-01,Kolkata,Radisson,Standard,33,119,410289
+2024-01-01,Kolkata,Clarks,Deluxe,45,68,297540
+2024-01-01,Kolkata,ITC Maurya,Deluxe,111,143,1052946
+2024-01-01,Kolkata,Maruya,Suite,27,103,330102
+2024-01-01,Kolkata,Leela,Deluxe,55,140,307175
+2024-01-01,Kolkata,Oberoi,Deluxe,61,65,478423
+2024-01-02,Delhi,Radisson,Deluxe,37,122,402301
+2024-01-02,Delhi,Clarks,Deluxe,81,133,404595
+2024-01-02,Delhi,ITC Maurya,Deluxe,34,107,395386
+2024-01-02,Delhi,Maruya,Suite,59,121,701628
+2024-01-02,Delhi,Leela,Standard,130,141,1724840
+2024-01-02,Delhi,Oberoi,Deluxe,143,148,1477333
+2024-01-02,Mumbai,Radisson,Standard,48,100,290976
+2024-01-02,Mumbai,Clarks,Standard,108,124,1296648
+2024-01-02,Mumbai,ITC Maurya,Standard,20,147,120540
+2024-01-02,Mumbai,Maruya,Suite,36,70,158076
+2024-01-02,Mumbai,Leela,Suite,52,94,514384
+2024-01-02,Mumbai,Oberoi,Deluxe,47,100,483066
+2024-01-02,Kolkata,Radisson,Standard,31,131,220224
+2024-01-02,Kolkata,Clarks,Suite,81,82,1052676
+2024-01-02,Kolkata,ITC Maurya,Suite,54,103,489024
+2024-01-02,Kolkata,Maruya,Suite,97,106,760480
+2024-01-02,Kolkata,Leela,Standard,122,149,1334436
+2024-01-02,Kolkata,Oberoi,Standard,34,138,339218
+2024-01-03,Delhi,Radisson,Deluxe,70,136,340410
+2024-01-03,Delhi,Clarks,Suite,23,111,132411
+2024-01-03,Delhi,ITC Maurya,Standard,58,82,631736
+2024-01-03,Delhi,Maruya,Suite,48,102,242832
+2024-01-03,Delhi,Leela,Standard,90,91,1252260
+2024-01-03,Delhi,Oberoi,Suite,47,145,648083
+2024-01-03,Mumbai,Radisson,Standard,47,65,358469
+2024-01-03,Mumbai,Clarks,Deluxe,94,121,532322
+2024-01-03,Mumbai,ITC Maurya,Deluxe,122,148,1389824
+2024-01-03,Mumbai,Maruya,Standard,81,86,872856
+2024-01-03,Mumbai,Leela,Standard,58,62,748258
+2024-01-03,Mumbai,Oberoi,Suite,56,68,261128
+2024-01-03,Kolkata,Radisson,Suite,51,118,280245
+2024-01-03,Kolkata,Clarks,Standard,81,111,857385
+2024-01-03,Kolkata,ITC Maurya,Deluxe,21,98,242634
+2024-01-03,Kolkata,Maruya,Standard,100,115,469800
+2024-01-03,Kolkata,Leela,Standard,21,61,101934
+2024-01-03,Kolkata,Oberoi,Standard,38,60,351462
+2024-01-04,Delhi,Radisson,Standard,51,103,710175
+2024-01-04,Delhi,Clarks,Suite,74,127,310948
+2024-01-04,Delhi,ITC Maurya,Suite,57,76,360639
+2024-01-04,Delhi,Maruya,Standard,105,129,622650
+2024-01-04,Delhi,Leela,Suite,52,75,693628
+2024-01-04,Delhi,Oberoi,Suite,99,129,1384614
+2024-01-04,Mumbai,Radisson,Suite,38,95,515318
+2024-01-04,Mumbai,Clarks,Suite,39,78,269529
+2024-01-04,Mumbai,ITC Maurya,Suite,52,111,309868
+2024-01-04,Mumbai,Maruya,Suite,123,141,1074528
+2024-01-04,Mumbai,Leela,Suite,108,116,1029672
+2024-01-04,Mumbai,Oberoi,Deluxe,26,101,267462
+2024-01-04,Kolkata,Radisson,Deluxe,21,119,197883
+2024-01-04,Kolkata,Clarks,Deluxe,24,71,170592
+2024-01-04,Kolkata,ITC Maurya,Suite,60,68,430200
+2024-01-04,Kolkata,Maruya,Suite,99,107,510246
+2024-01-04,Kolkata,Leela,Deluxe,43,92,242864
+2024-01-04,Kolkata,Oberoi,Deluxe,118,143,773726
+2024-01-05,Delhi,Radisson,Standard,48,84,334128
+2024-01-05,Delhi,Clarks,Deluxe,85,141,583865
+2024-01-05,Delhi,ITC Maurya,Suite,80,139,988160
+2024-01-05,Delhi,Maruya,Standard,40,73,356440
+2024-01-05,Delhi,Leela,Suite,36,126,314460
+2024-01-05,Delhi,Oberoi,Standard,95,107,1248870
+2024-01-05,Mumbai,Radisson,Suite,138,145,696210
+2024-01-05,Mumbai,Clarks,Deluxe,57,89,423852
+2024-01-05,Mumbai,ITC Maurya,Suite,27,113,198558
+2024-01-05,Mumbai,Maruya,Suite,49,80,540078
+2024-01-05,Mumbai,Leela,Standard,80,128,1040560
+2024-01-05,Mumbai,Oberoi,Suite,54,63,630666
+2024-01-05,Kolkata,Radisson,Standard,49,103,248381
+2024-01-05,Kolkata,Clarks,Standard,54,65,273240
+2024-01-05,Kolkata,ITC Maurya,Standard,72,105,331632
+2024-01-05,Kolkata,Maruya,Suite,116,119,1546396
+2024-01-05,Kolkata,Leela,Suite,51,144,515202
+2024-01-05,Kolkata,Oberoi,Standard,37,126,215192
+2024-01-06,Delhi,Radisson,Deluxe,77,113,727034
+2024-01-06,Delhi,Clarks,Deluxe,69,83,790395
+2024-01-06,Delhi,ITC Maurya,Suite,42,145,294378
+2024-01-06,Delhi,Maruya,Suite,21,86,100464
+2024-01-06,Delhi,Leela,Standard,62,68,703266
+2024-01-06,Delhi,Oberoi,Suite,45,101,449370
+2024-01-06,Mumbai,Radisson,Deluxe,43,84,546788
+2024-01-06,Mumbai,Clarks,Deluxe,55,66,482900
+2024-01-06,Mumbai,ITC Maurya,Standard,65,67,552175
+2024-01-06,Mumbai,Maruya,Deluxe,134,135,1422276
+2024-01-06,Mumbai,Leela,Suite,51,125,247503
+2024-01-06,Mumbai,Oberoi,Suite,77,84,352198
+2024-01-06,Kolkata,Radisson,Deluxe,77,81,886193
+2024-01-06,Kolkata,Clarks,Standard,61,111,479094
+2024-01-06,Kolkata,ITC Maurya,Deluxe,116,119,826384
+2024-01-06,Kolkata,Maruya,Standard,25,127,121900
+2024-01-06,Kolkata,Leela,Deluxe,74,106,819846
+2024-01-06,Kolkata,Oberoi,Standard,38,89,332576
+2024-01-07,Delhi,Radisson,Suite,47,78,431319
+2024-01-07,Delhi,Clarks,Suite,136,149,1353064
+2024-01-07,Delhi,ITC Maurya,Suite,31,68,409324
+2024-01-07,Delhi,Maruya,Standard,20,117,236100
+2024-01-07,Delhi,Leela,Deluxe,20,107,146860
+2024-01-07,Delhi,Oberoi,Standard,82,123,375560
+2024-01-07,Mumbai,Radisson,Deluxe,95,126,783655
+2024-01-07,Mumbai,Clarks,Suite,76,145,1021060
+2024-01-07,Mumbai,ITC Maurya,Standard,81,106,859977
+2024-01-07,Mumbai,Maruya,Standard,52,98,593892
+2024-01-07,Mumbai,Leela,Deluxe,77,82,821205
+2024-01-07,Mumbai,Oberoi,Deluxe,119,128,815031
+2024-01-07,Kolkata,Radisson,Suite,38,69,246582
+2024-01-07,Kolkata,Clarks,Standard,23,128,157297
+2024-01-07,Kolkata,ITC Maurya,Suite,47,61,615089
+2024-01-07,Kolkata,Maruya,Suite,43,143,465819
+2024-01-07,Kolkata,Leela,Suite,52,92,470704
+2024-01-07,Kolkata,Oberoi,Suite,31,102,372062
+2024-01-08,Delhi,Radisson,Standard,59,92,466867
+2024-01-08,Delhi,Clarks,Suite,48,103,389136
+2024-01-08,Delhi,ITC Maurya,Suite,21,105,271845
+2024-01-08,Delhi,Maruya,Suite,100,146,1296700
+2024-01-08,Delhi,Leela,Standard,53,85,652218
+2024-01-08,Delhi,Oberoi,Standard,23,66,110975
+2024-01-08,Mumbai,Radisson,Standard,48,134,554064
+2024-01-08,Mumbai,Clarks,Standard,76,80,977892
+2024-01-08,Mumbai,ITC Maurya,Deluxe,43,132,291798
+2024-01-08,Mumbai,Maruya,Standard,43,95,464658
+2024-01-08,Mumbai,Leela,Deluxe,31,96,230640
+2024-01-08,Mumbai,Oberoi,Suite,42,72,290388
+2024-01-08,Kolkata,Radisson,Standard,36,89,460332
+2024-01-08,Kolkata,Clarks,Standard,32,145,150336
+2024-01-08,Kolkata,ITC Maurya,Suite,31,108,353400
+2024-01-08,Kolkata,Maruya,Suite,28,135,182056
+2024-01-08,Kolkata,Leela,Deluxe,102,111,967572
+2024-01-08,Kolkata,Oberoi,Standard,118,128,1001938
+2024-01-09,Delhi,Radisson,Standard,104,111,1211704
+2024-01-09,Delhi,Clarks,Standard,35,82,177170
+2024-01-09,Delhi,ITC Maurya,Standard,61,112,567605
+2024-01-09,Delhi,Maruya,Suite,50,73,436450
+2024-01-09,Delhi,Leela,Standard,37,94,327302
+2024-01-09,Delhi,Oberoi,Standard,77,133,503503
+2024-01-09,Mumbai,Radisson,Standard,65,66,337415
+2024-01-09,Mumbai,Clarks,Deluxe,46,68,307326
+2024-01-09,Mumbai,ITC Maurya,Deluxe,48,64,457968
+2024-01-09,Mumbai,Maruya,Suite,64,67,343360
+2024-01-09,Mumbai,Leela,Standard,108,130,574992
+2024-01-09,Mumbai,Oberoi,Deluxe,38,90,402344
+2024-01-09,Kolkata,Radisson,Deluxe,93,98,927861
+2024-01-09,Kolkata,Clarks,Suite,86,98,711048
+2024-01-09,Kolkata,ITC Maurya,Standard,39,117,414141
+2024-01-09,Kolkata,Maruya,Standard,20,98,210600
+2024-01-09,Kolkata,Leela,Standard,82,121,453542
+2024-01-09,Kolkata,Oberoi,Standard,75,84,369600
+2024-01-10,Delhi,Radisson,Deluxe,63,65,649908
+2024-01-10,Delhi,Clarks,Standard,40,106,327000
+2024-01-10,Delhi,ITC Maurya,Deluxe,94,144,878712
+2024-01-10,Delhi,Maruya,Suite,39,78,397410
+2024-01-10,Delhi,Leela,Standard,33,108,247038
+2024-01-10,Delhi,Oberoi,Standard,22,113,147466
+2024-01-10,Mumbai,Radisson,Suite,94,116,503182
+2024-01-10,Mumbai,Clarks,Deluxe,43,135,200681
+2024-01-10,Mumbai,ITC Maurya,Standard,47,67,508493
+2024-01-10,Mumbai,Maruya,Deluxe,47,67,421308
+2024-01-10,Mumbai,Leela,Standard,46,123,510692
+2024-01-10,Mumbai,Oberoi,Standard,52,132,526864
+2024-01-10,Kolkata,Radisson,Standard,32,88,178592
+2024-01-10,Kolkata,Clarks,Suite,37,65,407962
+2024-01-10,Kolkata,ITC Maurya,Standard,44,106,176396
+2024-01-10,Kolkata,Maruya,Deluxe,52,64,322036
+2024-01-10,Kolkata,Leela,Suite,30,108,343470
+2024-01-10,Kolkata,Oberoi,Suite,105,148,1151850
+2024-01-11,Delhi,Radisson,Suite,96,108,768000
+2024-01-11,Delhi,Clarks,Deluxe,40,60,487000
+2024-01-11,Delhi,ITC Maurya,Suite,47,65,282000
+2024-01-11,Delhi,Maruya,Standard,57,64,311220
+2024-01-11,Delhi,Leela,Suite,56,112,493304
+2024-01-11,Delhi,Oberoi,Deluxe,36,142,404820
+2024-01-11,Mumbai,Radisson,Standard,32,60,382048
+2024-01-11,Mumbai,Clarks,Deluxe,123,124,912537
+2024-01-11,Mumbai,ITC Maurya,Suite,58,131,246442
+2024-01-11,Mumbai,Maruya,Deluxe,22,113,183986
+2024-01-11,Mumbai,Leela,Standard,24,113,285624
+2024-01-11,Mumbai,Oberoi,Suite,36,116,313884
+2024-01-11,Kolkata,Radisson,Suite,42,106,220584
+2024-01-11,Kolkata,Clarks,Standard,21,73,179130
+2024-01-11,Kolkata,ITC Maurya,Suite,83,97,903123
+2024-01-11,Kolkata,Maruya,Deluxe,101,109,1105041
+2024-01-11,Kolkata,Leela,Suite,82,110,437142
+2024-01-11,Kolkata,Oberoi,Standard,49,97,433846
+2024-01-12,Delhi,Radisson,Deluxe,100,110,618000
+2024-01-12,Delhi,Clarks,Standard,29,63,299483
+2024-01-12,Delhi,ITC Maurya,Standard,36,133,272844
+2024-01-12,Delhi,Maruya,Standard,25,93,239225
+2024-01-12,Delhi,Leela,Standard,94,102,555164
+2024-01-12,Delhi,Oberoi,Suite,74,82,757612
+2024-01-12,Mumbai,Radisson,Suite,27,75,353457
+2024-01-12,Mumbai,Clarks,Standard,115,126,835590
+2024-01-12,Mumbai,ITC Maurya,Suite,69,91,743613
+2024-01-12,Mumbai,Maruya,Suite,40,78,364960
+2024-01-12,Mumbai,Leela,Deluxe,80,101,854160
+2024-01-12,Mumbai,Oberoi,Standard,20,129,207520
+2024-01-12,Kolkata,Radisson,Deluxe,53,105,739085
+2024-01-12,Kolkata,Clarks,Standard,45,86,458550
+2024-01-12,Kolkata,ITC Maurya,Standard,130,145,1364090
+2024-01-12,Kolkata,Maruya,Suite,67,122,512148
+2024-01-12,Kolkata,Leela,Standard,55,85,290180
+2024-01-12,Kolkata,Oberoi,Suite,75,106,953775
+2024-01-13,Delhi,Radisson,Deluxe,21,87,91644
+2024-01-13,Delhi,Clarks,Deluxe,70,73,638820
+2024-01-13,Delhi,ITC Maurya,Suite,65,82,682890
+2024-01-13,Delhi,Maruya,Suite,57,77,620274
+2024-01-13,Delhi,Leela,Suite,44,74,429000
+2024-01-13,Delhi,Oberoi,Standard,58,87,346608
+2024-01-13,Mumbai,Radisson,Standard,109,145,449625
+2024-01-13,Mumbai,Clarks,Standard,32,76,325376
+2024-01-13,Mumbai,ITC Maurya,Deluxe,124,126,1656764
+2024-01-13,Mumbai,Maruya,Suite,53,145,632979
+2024-01-13,Mumbai,Leela,Standard,61,142,394792
+2024-01-13,Mumbai,Oberoi,Standard,45,65,259245
+2024-01-13,Kolkata,Radisson,Suite,78,115,380328
+2024-01-13,Kolkata,Clarks,Deluxe,72,92,412776
+2024-01-13,Kolkata,ITC Maurya,Deluxe,49,63,538314
+2024-01-13,Kolkata,Maruya,Deluxe,113,121,874055
+2024-01-13,Kolkata,Leela,Suite,22,68,273548
+2024-01-13,Kolkata,Oberoi,Suite,55,99,721105
+2024-01-14,Delhi,Radisson,Suite,21,65,265839
+2024-01-14,Delhi,Clarks,Suite,34,63,436458
+2024-01-14,Delhi,ITC Maurya,Deluxe,81,110,774360
+2024-01-14,Delhi,Maruya,Deluxe,94,138,969704
+2024-01-14,Delhi,Leela,Standard,45,129,599985
+2024-01-14,Delhi,Oberoi,Suite,116,143,952128
+2024-01-14,Mumbai,Radisson,Suite,45,60,619425
+2024-01-14,Mumbai,Clarks,Standard,55,70,604340
+2024-01-14,Mumbai,ITC Maurya,Suite,52,62,680836
+2024-01-14,Mumbai,Maruya,Deluxe,24,69,240912
+2024-01-14,Mumbai,Leela,Deluxe,21,103,127260
+2024-01-14,Mumbai,Oberoi,Deluxe,84,143,448728
+2024-01-14,Kolkata,Radisson,Standard,36,132,245664
+2024-01-14,Kolkata,Clarks,Suite,43,74,322070
+2024-01-14,Kolkata,ITC Maurya,Deluxe,88,108,372680
+2024-01-14,Kolkata,Maruya,Deluxe,136,137,1709112
+2024-01-14,Kolkata,Leela,Suite,53,68,351655
+2024-01-14,Kolkata,Oberoi,Suite,20,94,188300
+2024-01-15,Delhi,Radisson,Deluxe,83,119,785844
+2024-01-15,Delhi,Clarks,Suite,49,73,661794
+2024-01-15,Delhi,ITC Maurya,Standard,24,96,165552
+2024-01-15,Delhi,Maruya,Suite,45,137,370215
+2024-01-15,Delhi,Leela,Standard,37,101,499870
+2024-01-15,Delhi,Oberoi,Deluxe,70,91,826280
+2024-01-15,Mumbai,Radisson,Deluxe,34,82,448256
+2024-01-15,Mumbai,Clarks,Standard,52,76,417716
+2024-01-15,Mumbai,ITC Maurya,Deluxe,70,112,417900
+2024-01-15,Mumbai,Maruya,Deluxe,22,65,114444
+2024-01-15,Mumbai,Leela,Deluxe,34,123,331228
+2024-01-15,Mumbai,Oberoi,Standard,46,92,203274
+2024-01-15,Kolkata,Radisson,Standard,76,97,389120
+2024-01-15,Kolkata,Clarks,Standard,74,86,468864
+2024-01-15,Kolkata,ITC Maurya,Deluxe,105,127,904260
+2024-01-15,Kolkata,Maruya,Suite,116,133,1163248
+2024-01-15,Kolkata,Leela,Suite,71,106,842273
+2024-01-15,Kolkata,Oberoi,Suite,27,88,172017
+2024-01-16,Delhi,Radisson,Standard,46,61,188324
+2024-01-16,Delhi,Clarks,Suite,55,95,263615
+2024-01-16,Delhi,ITC Maurya,Suite,39,86,396474
+2024-01-16,Delhi,Maruya,Suite,65,149,816010
+2024-01-16,Delhi,Leela,Deluxe,59,72,294056
+2024-01-16,Delhi,Oberoi,Standard,62,119,466922
+2024-01-16,Mumbai,Radisson,Standard,91,96,375466
+2024-01-16,Mumbai,Clarks,Deluxe,28,90,255052
+2024-01-16,Mumbai,ITC Maurya,Suite,59,88,434712
+2024-01-16,Mumbai,Maruya,Deluxe,42,70,243264
+2024-01-16,Mumbai,Leela,Deluxe,45,80,254025
+2024-01-16,Mumbai,Oberoi,Deluxe,76,146,537472
+2024-01-16,Kolkata,Radisson,Suite,74,113,778036
+2024-01-16,Kolkata,Clarks,Suite,66,80,733392
+2024-01-16,Kolkata,ITC Maurya,Standard,29,68,217703
+2024-01-16,Kolkata,Maruya,Standard,60,85,718200
+2024-01-16,Kolkata,Leela,Suite,45,84,538785
+2024-01-16,Kolkata,Oberoi,Deluxe,37,66,468642
+2024-01-17,Delhi,Radisson,Deluxe,62,76,815052
+2024-01-17,Delhi,Clarks,Suite,73,110,437270
+2024-01-17,Delhi,ITC Maurya,Deluxe,52,147,536640
+2024-01-17,Delhi,Maruya,Standard,41,122,275233
+2024-01-17,Delhi,Leela,Deluxe,68,144,337688
+2024-01-17,Delhi,Oberoi,Standard,124,143,581312
+2024-01-17,Mumbai,Radisson,Deluxe,111,145,1019202
+2024-01-17,Mumbai,Clarks,Standard,90,108,1258560
+2024-01-17,Mumbai,ITC Maurya,Standard,70,146,844060
+2024-01-17,Mumbai,Maruya,Suite,51,121,342567
+2024-01-17,Mumbai,Leela,Standard,64,108,876288
+2024-01-17,Mumbai,Oberoi,Deluxe,59,75,659974
+2024-01-17,Kolkata,Radisson,Deluxe,33,60,313170
+2024-01-17,Kolkata,Clarks,Suite,111,125,1024752
+2024-01-17,Kolkata,ITC Maurya,Deluxe,70,97,624820
+2024-01-17,Kolkata,Maruya,Standard,48,67,577824
+2024-01-17,Kolkata,Leela,Suite,29,91,158949
+2024-01-17,Kolkata,Oberoi,Suite,74,93,861582
+2024-01-18,Delhi,Radisson,Deluxe,48,66,231936
+2024-01-18,Delhi,Clarks,Standard,107,126,1339533
+2024-01-18,Delhi,ITC Maurya,Deluxe,70,126,824320
+2024-01-18,Delhi,Maruya,Suite,53,67,634410
+2024-01-18,Delhi,Leela,Deluxe,65,91,424970
+2024-01-18,Delhi,Oberoi,Standard,104,113,936520
+2024-01-18,Mumbai,Radisson,Suite,67,114,680050
+2024-01-18,Mumbai,Clarks,Deluxe,52,66,322296
+2024-01-18,Mumbai,ITC Maurya,Standard,67,78,499284
+2024-01-18,Mumbai,Maruya,Suite,48,95,392496
+2024-01-18,Mumbai,Leela,Deluxe,24,60,240840
+2024-01-18,Mumbai,Oberoi,Suite,22,61,188452
+2024-01-18,Kolkata,Radisson,Suite,39,71,187356
+2024-01-18,Kolkata,Clarks,Deluxe,53,68,587399
+2024-01-18,Kolkata,ITC Maurya,Suite,127,145,848233
+2024-01-18,Kolkata,Maruya,Suite,115,146,778320
+2024-01-18,Kolkata,Leela,Deluxe,33,140,217767
+2024-01-18,Kolkata,Oberoi,Deluxe,58,84,659344
+2024-01-19,Delhi,Radisson,Deluxe,62,81,405542
+2024-01-19,Delhi,Clarks,Deluxe,48,117,623808
+2024-01-19,Delhi,ITC Maurya,Suite,37,129,350575
+2024-01-19,Delhi,Maruya,Standard,53,97,592752
+2024-01-19,Delhi,Leela,Standard,57,84,320454
+2024-01-19,Delhi,Oberoi,Standard,104,145,631696
+2024-01-19,Mumbai,Radisson,Standard,25,90,206575
+2024-01-19,Mumbai,Clarks,Deluxe,64,71,648704
+2024-01-19,Mumbai,ITC Maurya,Standard,29,130,403100
+2024-01-19,Mumbai,Maruya,Standard,81,85,541161
+2024-01-19,Mumbai,Leela,Deluxe,21,123,148407
+2024-01-19,Mumbai,Oberoi,Deluxe,70,124,615160
+2024-01-19,Kolkata,Radisson,Suite,48,85,592320
+2024-01-19,Kolkata,Clarks,Suite,30,99,350370
+2024-01-19,Kolkata,ITC Maurya,Standard,58,118,779636
+2024-01-19,Kolkata,Maruya,Deluxe,43,114,380679
+2024-01-19,Kolkata,Leela,Deluxe,75,128,705600
+2024-01-19,Kolkata,Oberoi,Deluxe,39,95,224718
+2024-01-20,Delhi,Radisson,Suite,81,140,945594
+2024-01-20,Delhi,Clarks,Standard,45,132,522765
+2024-01-20,Delhi,ITC Maurya,Standard,92,132,583556
+2024-01-20,Delhi,Maruya,Standard,44,60,178640
+2024-01-20,Delhi,Leela,Suite,44,101,526680
+2024-01-20,Delhi,Oberoi,Suite,70,103,528430
+2024-01-20,Mumbai,Radisson,Deluxe,38,71,525464
+2024-01-20,Mumbai,Clarks,Suite,80,108,730880
+2024-01-20,Mumbai,ITC Maurya,Deluxe,74,116,886668
+2024-01-20,Mumbai,Maruya,Deluxe,107,139,464166
+2024-01-20,Mumbai,Leela,Suite,36,80,207000
+2024-01-20,Mumbai,Oberoi,Standard,89,139,829391
+2024-01-20,Kolkata,Radisson,Standard,108,141,1013796
+2024-01-20,Kolkata,Clarks,Suite,45,118,570600
+2024-01-20,Kolkata,ITC Maurya,Standard,66,85,585618
+2024-01-20,Kolkata,Maruya,Suite,42,76,416346
+2024-01-20,Kolkata,Leela,Standard,141,145,618990
+2024-01-20,Kolkata,Oberoi,Deluxe,136,138,1589296
+2024-01-21,Delhi,Radisson,Standard,91,107,502411
+2024-01-21,Delhi,Clarks,Suite,112,146,1202544
+2024-01-21,Delhi,ITC Maurya,Suite,37,98,202242
+2024-01-21,Delhi,Maruya,Deluxe,33,76,441342
+2024-01-21,Delhi,Leela,Suite,64,119,264320
+2024-01-21,Delhi,Oberoi,Standard,59,102,488402
+2024-01-21,Mumbai,Radisson,Suite,34,98,361760
+2024-01-21,Mumbai,Clarks,Standard,44,145,508816
+2024-01-21,Mumbai,ITC Maurya,Deluxe,35,92,443940
+2024-01-21,Mumbai,Maruya,Deluxe,74,125,956820
+2024-01-21,Mumbai,Leela,Deluxe,49,93,408954
+2024-01-21,Mumbai,Oberoi,Suite,32,72,249920
+2024-01-21,Kolkata,Radisson,Suite,65,98,392080
+2024-01-21,Kolkata,Clarks,Standard,76,121,324596
+2024-01-21,Kolkata,ITC Maurya,Suite,49,69,241080
+2024-01-21,Kolkata,Maruya,Suite,24,143,186240
+2024-01-21,Kolkata,Leela,Suite,33,104,414711
+2024-01-21,Kolkata,Oberoi,Deluxe,37,127,310356
+2024-01-22,Delhi,Radisson,Standard,84,107,1022532
+2024-01-22,Delhi,Clarks,Suite,34,132,409904
+2024-01-22,Delhi,ITC Maurya,Suite,80,96,1050400
+2024-01-22,Delhi,Maruya,Deluxe,75,98,861450
+2024-01-22,Delhi,Leela,Deluxe,30,147,176040
+2024-01-22,Delhi,Oberoi,Deluxe,26,84,251940
+2024-01-22,Mumbai,Radisson,Standard,73,122,954548
+2024-01-22,Mumbai,Clarks,Suite,126,133,607824
+2024-01-22,Mumbai,ITC Maurya,Deluxe,22,100,172590
+2024-01-22,Mumbai,Maruya,Standard,42,64,282912
+2024-01-22,Mumbai,Leela,Standard,77,79,1061676
+2024-01-22,Mumbai,Oberoi,Suite,69,94,899829
+2024-01-22,Kolkata,Radisson,Deluxe,43,76,524342
+2024-01-22,Kolkata,Clarks,Suite,66,72,572550
+2024-01-22,Kolkata,ITC Maurya,Deluxe,60,70,689400
+2024-01-22,Kolkata,Maruya,Suite,28,88,146104
+2024-01-22,Kolkata,Leela,Standard,61,135,838872
+2024-01-22,Kolkata,Oberoi,Standard,53,70,698275
+2024-01-23,Delhi,Radisson,Suite,91,97,852670
+2024-01-23,Delhi,Clarks,Standard,37,107,452436
+2024-01-23,Delhi,ITC Maurya,Standard,59,87,797444
+2024-01-23,Delhi,Maruya,Deluxe,86,117,480826
+2024-01-23,Delhi,Leela,Deluxe,96,99,509952
+2024-01-23,Delhi,Oberoi,Deluxe,38,147,242554
+2024-01-23,Mumbai,Radisson,Standard,78,118,444912
+2024-01-23,Mumbai,Clarks,Standard,72,104,596592
+2024-01-23,Mumbai,ITC Maurya,Suite,79,97,801850
+2024-01-23,Mumbai,Maruya,Standard,77,104,524216
+2024-01-23,Mumbai,Leela,Suite,42,90,485562
+2024-01-23,Mumbai,Oberoi,Suite,49,112,674534
+2024-01-23,Kolkata,Radisson,Suite,119,141,1520820
+2024-01-23,Kolkata,Clarks,Standard,58,71,541894
+2024-01-23,Kolkata,ITC Maurya,Standard,46,105,236256
+2024-01-23,Kolkata,Maruya,Standard,59,76,649531
+2024-01-23,Kolkata,Leela,Standard,89,94,832328
+2024-01-23,Kolkata,Oberoi,Deluxe,47,122,214837
+2024-01-24,Delhi,Radisson,Suite,41,96,453419
+2024-01-24,Delhi,Clarks,Deluxe,110,127,554400
+2024-01-24,Delhi,ITC Maurya,Deluxe,29,76,379233
+2024-01-24,Delhi,Maruya,Standard,45,81,465885
+2024-01-24,Delhi,Leela,Deluxe,66,73,823416
+2024-01-24,Delhi,Oberoi,Suite,95,111,866970
+2024-01-24,Mumbai,Radisson,Standard,52,70,614276
+2024-01-24,Mumbai,Clarks,Suite,51,138,695895
+2024-01-24,Mumbai,ITC Maurya,Deluxe,23,88,259118
+2024-01-24,Mumbai,Maruya,Standard,34,98,444652
+2024-01-24,Mumbai,Leela,Standard,51,88,364905
+2024-01-24,Mumbai,Oberoi,Deluxe,46,134,357788
+2024-01-24,Kolkata,Radisson,Standard,111,115,553668
+2024-01-24,Kolkata,Clarks,Standard,99,106,809721
+2024-01-24,Kolkata,ITC Maurya,Deluxe,76,78,731576
+2024-01-24,Kolkata,Maruya,Standard,57,117,433086
+2024-01-24,Kolkata,Leela,Deluxe,54,120,381024
+2024-01-24,Kolkata,Oberoi,Standard,31,83,291090
+2024-01-25,Delhi,Radisson,Suite,79,131,835267
+2024-01-25,Delhi,Clarks,Standard,48,76,354240
+2024-01-25,Delhi,ITC Maurya,Suite,65,86,496145
+2024-01-25,Delhi,Maruya,Suite,48,62,238032
+2024-01-25,Delhi,Leela,Standard,79,83,669367
+2024-01-25,Delhi,Oberoi,Suite,65,79,294190
+2024-01-25,Mumbai,Radisson,Standard,90,137,528750
+2024-01-25,Mumbai,Clarks,Standard,67,97,884936
+2024-01-25,Mumbai,ITC Maurya,Suite,137,145,1458228
+2024-01-25,Mumbai,Maruya,Standard,43,61,197069
+2024-01-25,Mumbai,Leela,Suite,96,123,784032
+2024-01-25,Mumbai,Oberoi,Standard,49,77,264061
+2024-01-25,Kolkata,Radisson,Suite,51,97,517854
+2024-01-25,Kolkata,Clarks,Standard,52,148,314236
+2024-01-25,Kolkata,ITC Maurya,Deluxe,27,100,129006
+2024-01-25,Kolkata,Maruya,Deluxe,107,110,1473176
+2024-01-25,Kolkata,Leela,Standard,65,135,636415
+2024-01-25,Kolkata,Oberoi,Suite,73,139,490560
+2024-01-26,Delhi,Radisson,Deluxe,51,99,613632
+2024-01-26,Delhi,Clarks,Deluxe,49,92,525868
+2024-01-26,Delhi,ITC Maurya,Deluxe,58,81,638812
+2024-01-26,Delhi,Maruya,Deluxe,34,105,239394
+2024-01-26,Delhi,Leela,Deluxe,68,103,400860
+2024-01-26,Delhi,Oberoi,Suite,86,120,398524
+2024-01-26,Mumbai,Radisson,Deluxe,25,68,178600
+2024-01-26,Mumbai,Clarks,Suite,60,91,774420
+2024-01-26,Mumbai,ITC Maurya,Deluxe,103,121,1281526
+2024-01-26,Mumbai,Maruya,Suite,30,66,126210
+2024-01-26,Mumbai,Leela,Deluxe,41,117,516641
+2024-01-26,Mumbai,Oberoi,Suite,60,62,712020
+2024-01-26,Kolkata,Radisson,Deluxe,30,73,335370
+2024-01-26,Kolkata,Clarks,Suite,32,71,177920
+2024-01-26,Kolkata,ITC Maurya,Standard,74,78,957634
+2024-01-26,Kolkata,Maruya,Standard,48,67,305088
+2024-01-26,Kolkata,Leela,Suite,70,91,838530
+2024-01-26,Kolkata,Oberoi,Deluxe,37,129,172457
+2024-01-27,Delhi,Radisson,Standard,78,115,1009788
+2024-01-27,Delhi,Clarks,Suite,112,120,1128736
+2024-01-27,Delhi,ITC Maurya,Suite,31,66,341155
+2024-01-27,Delhi,Maruya,Standard,77,90,381612
+2024-01-27,Delhi,Leela,Standard,47,63,638213
+2024-01-27,Delhi,Oberoi,Deluxe,43,79,245616
+2024-01-27,Mumbai,Radisson,Suite,85,95,1158805
+2024-01-27,Mumbai,Clarks,Deluxe,61,98,329034
+2024-01-27,Mumbai,ITC Maurya,Deluxe,22,71,99638
+2024-01-27,Mumbai,Maruya,Standard,52,74,394732
+2024-01-27,Mumbai,Leela,Deluxe,61,146,800991
+2024-01-27,Mumbai,Oberoi,Deluxe,21,137,91854
+2024-01-27,Kolkata,Radisson,Standard,57,128,492936
+2024-01-27,Kolkata,Clarks,Deluxe,33,119,283767
+2024-01-27,Kolkata,ITC Maurya,Suite,103,148,1269063
+2024-01-27,Kolkata,Maruya,Suite,36,129,439884
+2024-01-27,Kolkata,Leela,Deluxe,24,94,229032
+2024-01-27,Kolkata,Oberoi,Standard,66,82,688380
+2024-01-28,Delhi,Radisson,Suite,22,69,101838
+2024-01-28,Delhi,Clarks,Deluxe,93,139,904332
+2024-01-28,Delhi,ITC Maurya,Deluxe,113,135,839816
+2024-01-28,Delhi,Maruya,Standard,39,64,385905
+2024-01-28,Delhi,Leela,Suite,20,135,91500
+2024-01-28,Delhi,Oberoi,Deluxe,47,143,338024
+2024-01-28,Mumbai,Radisson,Suite,66,96,667656
+2024-01-28,Mumbai,Clarks,Standard,63,108,390789
+2024-01-28,Mumbai,ITC Maurya,Suite,25,138,115475
+2024-01-28,Mumbai,Maruya,Suite,39,120,310167
+2024-01-28,Mumbai,Leela,Deluxe,28,61,378224
+2024-01-28,Mumbai,Oberoi,Deluxe,20,88,205240
+2024-01-28,Kolkata,Radisson,Suite,120,129,1101360
+2024-01-28,Kolkata,Clarks,Standard,70,92,366030
+2024-01-28,Kolkata,ITC Maurya,Deluxe,72,79,452808
+2024-01-28,Kolkata,Maruya,Suite,69,102,924600
+2024-01-28,Kolkata,Leela,Suite,62,115,449438
+2024-01-28,Kolkata,Oberoi,Suite,57,103,586758
+2024-01-29,Delhi,Radisson,Deluxe,71,104,423799
+2024-01-29,Delhi,Clarks,Deluxe,40,67,492800
+2024-01-29,Delhi,ITC Maurya,Suite,48,67,552912
+2024-01-29,Delhi,Maruya,Deluxe,41,64,213118
+2024-01-29,Delhi,Leela,Deluxe,74,124,683612
+2024-01-29,Delhi,Oberoi,Deluxe,93,102,953901
+2024-01-29,Mumbai,Radisson,Deluxe,45,76,347355
+2024-01-29,Mumbai,Clarks,Suite,110,135,928400
+2024-01-29,Mumbai,ITC Maurya,Deluxe,52,127,367744
+2024-01-29,Mumbai,Maruya,Suite,33,90,235092
+2024-01-29,Mumbai,Leela,Standard,82,149,795728
+2024-01-29,Mumbai,Oberoi,Standard,67,100,731908
+2024-01-29,Kolkata,Radisson,Standard,50,136,224400
+2024-01-29,Kolkata,Clarks,Suite,117,127,839241
+2024-01-29,Kolkata,ITC Maurya,Deluxe,57,63,462498
+2024-01-29,Kolkata,Maruya,Deluxe,32,141,160000
+2024-01-29,Kolkata,Leela,Suite,128,142,1209600
+2024-01-29,Kolkata,Oberoi,Standard,145,147,1886885
+2024-01-30,Delhi,Radisson,Suite,104,148,803504
+2024-01-30,Delhi,Clarks,Standard,90,135,557100
+2024-01-30,Delhi,ITC Maurya,Standard,48,78,460416
+2024-01-30,Delhi,Maruya,Standard,54,108,543186
+2024-01-30,Delhi,Leela,Deluxe,30,149,330300
+2024-01-30,Delhi,Oberoi,Deluxe,93,137,1223229
+2024-01-30,Mumbai,Radisson,Deluxe,22,68,225016
+2024-01-30,Mumbai,Clarks,Deluxe,67,131,346859
+2024-01-30,Mumbai,ITC Maurya,Standard,24,71,201576
+2024-01-30,Mumbai,Maruya,Standard,63,138,770742
+2024-01-30,Mumbai,Leela,Suite,65,129,687050
+2024-01-30,Mumbai,Oberoi,Standard,42,80,554652
+2024-01-30,Kolkata,Radisson,Suite,44,74,567864
+2024-01-30,Kolkata,Clarks,Suite,23,74,95220
+2024-01-30,Kolkata,ITC Maurya,Deluxe,53,78,530636
+2024-01-30,Kolkata,Maruya,Standard,46,111,638664
+2024-01-30,Kolkata,Leela,Suite,54,87,610794
+2024-01-30,Kolkata,Oberoi,Deluxe,49,95,679777
+2024-01-31,Delhi,Radisson,Deluxe,96,108,1035552
+2024-01-31,Delhi,Clarks,Deluxe,113,148,850890
+2024-01-31,Delhi,ITC Maurya,Suite,58,133,641016
+2024-01-31,Delhi,Maruya,Suite,82,130,521438
+2024-01-31,Delhi,Leela,Standard,80,101,835280
+2024-01-31,Delhi,Oberoi,Deluxe,20,66,185820
+2024-01-31,Mumbai,Radisson,Standard,32,106,361120
+2024-01-31,Mumbai,Clarks,Standard,111,145,787767
+2024-01-31,Mumbai,ITC Maurya,Standard,29,74,282808
+2024-01-31,Mumbai,Maruya,Standard,91,101,936845
+2024-01-31,Mumbai,Leela,Standard,56,85,543144
+2024-01-31,Mumbai,Oberoi,Deluxe,38,83,291954
+2024-01-31,Kolkata,Radisson,Suite,108,133,447660
+2024-01-31,Kolkata,Clarks,Suite,93,95,654720
+2024-01-31,Kolkata,ITC Maurya,Suite,66,128,909216
+2024-01-31,Kolkata,Maruya,Suite,40,92,514120
+2024-01-31,Kolkata,Leela,Standard,54,74,269298
+2024-01-31,Kolkata,Oberoi,Suite,30,91,385230
+2024-02-01,Delhi,Radisson,Standard,96,137,1022592
+2024-02-01,Delhi,Clarks,Standard,21,84,112203
+2024-02-01,Delhi,ITC Maurya,Suite,40,66,550760
+2024-02-01,Delhi,Maruya,Deluxe,60,98,636120
+2024-02-01,Delhi,Leela,Suite,79,83,501571
+2024-02-01,Delhi,Oberoi,Suite,109,127,558625
+2024-02-01,Mumbai,Radisson,Deluxe,58,91,624312
+2024-02-01,Mumbai,Clarks,Deluxe,55,95,223960
+2024-02-01,Mumbai,ITC Maurya,Standard,60,129,282420
+2024-02-01,Mumbai,Maruya,Standard,79,108,609327
+2024-02-01,Mumbai,Leela,Standard,46,103,379730
+2024-02-01,Mumbai,Oberoi,Standard,57,67,326895
+2024-02-01,Kolkata,Radisson,Deluxe,63,126,404964
+2024-02-01,Kolkata,Clarks,Deluxe,41,62,379209
+2024-02-01,Kolkata,ITC Maurya,Suite,21,103,281904
+2024-02-01,Kolkata,Maruya,Suite,49,146,402339
+2024-02-01,Kolkata,Leela,Deluxe,77,103,567798
+2024-02-01,Kolkata,Oberoi,Standard,99,114,659835
+2024-02-02,Delhi,Radisson,Deluxe,74,89,524142
+2024-02-02,Delhi,Clarks,Standard,31,75,239289
+2024-02-02,Delhi,ITC Maurya,Suite,49,75,207564
+2024-02-02,Delhi,Maruya,Suite,39,64,489645
+2024-02-02,Delhi,Leela,Standard,40,89,321480
+2024-02-02,Delhi,Oberoi,Deluxe,91,141,1270178
+2024-02-02,Mumbai,Radisson,Standard,31,75,425165
+2024-02-02,Mumbai,Clarks,Deluxe,55,73,471680
+2024-02-02,Mumbai,ITC Maurya,Suite,124,125,538160
+2024-02-02,Mumbai,Maruya,Deluxe,84,132,836808
+2024-02-02,Mumbai,Leela,Suite,81,111,937494
+2024-02-02,Mumbai,Oberoi,Deluxe,101,127,849006
+2024-02-02,Kolkata,Radisson,Deluxe,41,94,345917
+2024-02-02,Kolkata,Clarks,Standard,66,71,300960
+2024-02-02,Kolkata,ITC Maurya,Deluxe,64,97,372864
+2024-02-02,Kolkata,Maruya,Deluxe,125,147,1453625
+2024-02-02,Kolkata,Leela,Deluxe,99,126,1157607
+2024-02-02,Kolkata,Oberoi,Standard,40,74,473680
+2024-02-03,Delhi,Radisson,Deluxe,54,61,614142
+2024-02-03,Delhi,Clarks,Deluxe,44,69,571296
+2024-02-03,Delhi,ITC Maurya,Standard,52,113,429468
+2024-02-03,Delhi,Maruya,Suite,20,73,266500
+2024-02-03,Delhi,Leela,Deluxe,22,111,143660
+2024-02-03,Delhi,Oberoi,Standard,44,65,429968
+2024-02-03,Mumbai,Radisson,Standard,40,67,445480
+2024-02-03,Mumbai,Clarks,Standard,87,138,986580
+2024-02-03,Mumbai,ITC Maurya,Standard,39,90,381303
+2024-02-03,Mumbai,Maruya,Standard,82,119,550958
+2024-02-03,Mumbai,Leela,Standard,21,102,192759
+2024-02-03,Mumbai,Oberoi,Suite,50,142,557700
+2024-02-03,Kolkata,Radisson,Standard,53,142,555864
+2024-02-03,Kolkata,Clarks,Deluxe,69,70,633075
+2024-02-03,Kolkata,ITC Maurya,Suite,106,132,1001488
+2024-02-03,Kolkata,Maruya,Deluxe,35,66,440685
+2024-02-03,Kolkata,Leela,Standard,23,63,129674
+2024-02-03,Kolkata,Oberoi,Standard,71,111,313749
+2024-02-04,Delhi,Radisson,Deluxe,82,109,1123400
+2024-02-04,Delhi,Clarks,Suite,118,121,654782
+2024-02-04,Delhi,ITC Maurya,Suite,24,145,203544
+2024-02-04,Delhi,Maruya,Deluxe,73,80,645101
+2024-02-04,Delhi,Leela,Suite,29,80,337502
+2024-02-04,Delhi,Oberoi,Deluxe,24,98,248544
+2024-02-04,Mumbai,Radisson,Deluxe,72,144,459720
+2024-02-04,Mumbai,Clarks,Standard,51,104,212313
+2024-02-04,Mumbai,ITC Maurya,Standard,30,119,263940
+2024-02-04,Mumbai,Maruya,Standard,74,111,885114
+2024-02-04,Mumbai,Leela,Deluxe,53,127,462107
+2024-02-04,Mumbai,Oberoi,Deluxe,48,111,359664
+2024-02-04,Kolkata,Radisson,Deluxe,61,80,406992
+2024-02-04,Kolkata,Clarks,Standard,36,123,258876
+2024-02-04,Kolkata,ITC Maurya,Standard,20,100,91420
+2024-02-04,Kolkata,Maruya,Standard,59,69,765820
+2024-02-04,Kolkata,Leela,Suite,27,93,293463
+2024-02-04,Kolkata,Oberoi,Standard,36,138,399564
+2024-02-05,Delhi,Radisson,Suite,64,147,709312
+2024-02-05,Delhi,Clarks,Standard,120,146,1586760
+2024-02-05,Delhi,ITC Maurya,Standard,106,131,790336
+2024-02-05,Delhi,Maruya,Standard,43,110,500950
+2024-02-05,Delhi,Leela,Standard,39,64,406380
+2024-02-05,Delhi,Oberoi,Deluxe,30,90,255930
+2024-02-05,Mumbai,Radisson,Suite,26,142,331604
+2024-02-05,Mumbai,Clarks,Suite,24,117,311136
+2024-02-05,Mumbai,ITC Maurya,Deluxe,29,67,399185
+2024-02-05,Mumbai,Maruya,Suite,114,140,893646
+2024-02-05,Mumbai,Leela,Standard,85,132,1118090
+2024-02-05,Mumbai,Oberoi,Standard,87,95,1201035
+2024-02-05,Kolkata,Radisson,Standard,81,100,883710
+2024-02-05,Kolkata,Clarks,Deluxe,40,69,309880
+2024-02-05,Kolkata,ITC Maurya,Suite,32,61,445056
+2024-02-05,Kolkata,Maruya,Suite,51,75,648414
+2024-02-05,Kolkata,Leela,Deluxe,36,74,472572
+2024-02-05,Kolkata,Oberoi,Deluxe,92,114,900128
+2024-02-06,Delhi,Radisson,Suite,108,137,697788
+2024-02-06,Delhi,Clarks,Standard,51,103,238935
+2024-02-06,Delhi,ITC Maurya,Standard,54,80,742986
+2024-02-06,Delhi,Maruya,Deluxe,31,98,162936
+2024-02-06,Delhi,Leela,Suite,40,77,446600
+2024-02-06,Delhi,Oberoi,Standard,65,67,749255
+2024-02-06,Mumbai,Radisson,Deluxe,42,66,585942
+2024-02-06,Mumbai,Clarks,Suite,41,145,341530
+2024-02-06,Mumbai,ITC Maurya,Standard,47,81,354239
+2024-02-06,Mumbai,Maruya,Deluxe,71,88,885654
+2024-02-06,Mumbai,Leela,Deluxe,134,138,1096522
+2024-02-06,Mumbai,Oberoi,Standard,62,81,354888
+2024-02-06,Kolkata,Radisson,Standard,22,115,283668
+2024-02-06,Kolkata,Clarks,Deluxe,42,78,271320
+2024-02-06,Kolkata,ITC Maurya,Deluxe,44,98,496980
+2024-02-06,Kolkata,Maruya,Standard,61,67,692533
+2024-02-06,Kolkata,Leela,Standard,22,64,97856
+2024-02-06,Kolkata,Oberoi,Suite,117,123,762840
+2024-02-07,Delhi,Radisson,Deluxe,65,80,852410
+2024-02-07,Delhi,Clarks,Deluxe,32,100,209504
+2024-02-07,Delhi,ITC Maurya,Deluxe,77,149,545391
+2024-02-07,Delhi,Maruya,Standard,33,137,247137
+2024-02-07,Delhi,Leela,Standard,30,79,239490
+2024-02-07,Delhi,Oberoi,Suite,75,129,853350
+2024-02-07,Mumbai,Radisson,Standard,23,117,312708
+2024-02-07,Mumbai,Clarks,Deluxe,73,83,308498
+2024-02-07,Mumbai,ITC Maurya,Deluxe,73,96,439679
+2024-02-07,Mumbai,Maruya,Suite,29,80,286839
+2024-02-07,Mumbai,Leela,Standard,39,104,255957
+2024-02-07,Mumbai,Oberoi,Standard,22,73,185482
+2024-02-07,Kolkata,Radisson,Deluxe,23,114,183057
+2024-02-07,Kolkata,Clarks,Deluxe,53,83,243429
+2024-02-07,Kolkata,ITC Maurya,Suite,79,90,583810
+2024-02-07,Kolkata,Maruya,Deluxe,41,142,191183
+2024-02-07,Kolkata,Leela,Standard,49,135,462217
+2024-02-07,Kolkata,Oberoi,Deluxe,83,90,1047709
+2024-02-08,Delhi,Radisson,Standard,74,114,382506
+2024-02-08,Delhi,Clarks,Suite,94,106,471786
+2024-02-08,Delhi,ITC Maurya,Deluxe,52,104,274716
+2024-02-08,Delhi,Maruya,Suite,25,74,153125
+2024-02-08,Delhi,Leela,Suite,45,68,336195
+2024-02-08,Delhi,Oberoi,Standard,29,120,176813
+2024-02-08,Mumbai,Radisson,Suite,126,136,1310022
+2024-02-08,Mumbai,Clarks,Deluxe,100,129,1218600
+2024-02-08,Mumbai,ITC Maurya,Standard,38,110,207062
+2024-02-08,Mumbai,Maruya,Suite,45,105,539955
+2024-02-08,Mumbai,Leela,Standard,68,143,876860
+2024-02-08,Mumbai,Oberoi,Standard,109,129,799079
+2024-02-08,Kolkata,Radisson,Deluxe,54,98,369306
+2024-02-08,Kolkata,Clarks,Standard,60,129,281100
+2024-02-08,Kolkata,ITC Maurya,Standard,43,90,467324
+2024-02-08,Kolkata,Maruya,Deluxe,63,83,548919
+2024-02-08,Kolkata,Leela,Deluxe,111,145,998778
+2024-02-08,Kolkata,Oberoi,Suite,111,114,1383171
+2024-02-09,Delhi,Radisson,Deluxe,35,139,210490
+2024-02-09,Delhi,Clarks,Deluxe,96,148,439776
+2024-02-09,Delhi,ITC Maurya,Standard,75,104,498225
+2024-02-09,Delhi,Maruya,Deluxe,40,116,187560
+2024-02-09,Delhi,Leela,Standard,25,66,340350
+2024-02-09,Delhi,Oberoi,Deluxe,39,91,374049
+2024-02-09,Mumbai,Radisson,Suite,90,107,490410
+2024-02-09,Mumbai,Clarks,Deluxe,56,73,356216
+2024-02-09,Mumbai,ITC Maurya,Standard,88,141,674960
+2024-02-09,Mumbai,Maruya,Deluxe,68,96,403784
+2024-02-09,Mumbai,Leela,Suite,104,148,1101152
+2024-02-09,Mumbai,Oberoi,Standard,69,92,819375
+2024-02-09,Kolkata,Radisson,Suite,105,130,741510
+2024-02-09,Kolkata,Clarks,Standard,43,140,196596
+2024-02-09,Kolkata,ITC Maurya,Deluxe,77,87,468930
+2024-02-09,Kolkata,Maruya,Standard,68,98,586432
+2024-02-09,Kolkata,Leela,Deluxe,89,129,680672
+2024-02-09,Kolkata,Oberoi,Deluxe,24,144,132888
+2024-02-10,Delhi,Radisson,Deluxe,85,116,933725
+2024-02-10,Delhi,Clarks,Deluxe,67,75,519250
+2024-02-10,Delhi,ITC Maurya,Deluxe,107,135,1302618
+2024-02-10,Delhi,Maruya,Deluxe,78,119,359580
+2024-02-10,Delhi,Leela,Suite,68,122,615740
+2024-02-10,Delhi,Oberoi,Suite,39,80,521391
+2024-02-10,Mumbai,Radisson,Suite,105,127,1026270
+2024-02-10,Mumbai,Clarks,Standard,105,138,502005
+2024-02-10,Mumbai,ITC Maurya,Suite,77,99,605759
+2024-02-10,Mumbai,Maruya,Deluxe,85,122,839715
+2024-02-10,Mumbai,Leela,Deluxe,27,62,357993
+2024-02-10,Mumbai,Oberoi,Standard,25,101,268600
+2024-02-10,Kolkata,Radisson,Suite,62,109,672824
+2024-02-10,Kolkata,Clarks,Suite,31,70,124217
+2024-02-10,Kolkata,ITC Maurya,Standard,91,95,974610
+2024-02-10,Kolkata,Maruya,Standard,34,106,342142
+2024-02-10,Kolkata,Leela,Deluxe,61,141,669231
+2024-02-10,Kolkata,Oberoi,Deluxe,21,71,143262
+2024-02-11,Delhi,Radisson,Suite,46,62,271308
+2024-02-11,Delhi,Clarks,Deluxe,20,92,182200
+2024-02-11,Delhi,ITC Maurya,Standard,67,91,515230
+2024-02-11,Delhi,Maruya,Standard,49,63,514941
+2024-02-11,Delhi,Leela,Deluxe,51,78,570333
+2024-02-11,Delhi,Oberoi,Standard,40,122,186760
+2024-02-11,Mumbai,Radisson,Standard,23,93,113229
+2024-02-11,Mumbai,Clarks,Deluxe,46,118,552184
+2024-02-11,Mumbai,ITC Maurya,Standard,52,62,408928
+2024-02-11,Mumbai,Maruya,Deluxe,24,85,101424
+2024-02-11,Mumbai,Leela,Standard,57,68,264765
+2024-02-11,Mumbai,Oberoi,Suite,63,119,727272
+2024-02-11,Kolkata,Radisson,Suite,66,125,429264
+2024-02-11,Kolkata,Clarks,Standard,117,147,1561482
+2024-02-11,Kolkata,ITC Maurya,Deluxe,40,149,411960
+2024-02-11,Kolkata,Maruya,Deluxe,52,121,684944
+2024-02-11,Kolkata,Leela,Suite,53,111,553850
+2024-02-11,Kolkata,Oberoi,Suite,77,141,392546
+2024-02-12,Delhi,Radisson,Standard,67,82,876829
+2024-02-12,Delhi,Clarks,Deluxe,24,76,258312
+2024-02-12,Delhi,ITC Maurya,Suite,46,74,603612
+2024-02-12,Delhi,Maruya,Standard,35,143,351715
+2024-02-12,Delhi,Leela,Deluxe,47,99,623314
+2024-02-12,Delhi,Oberoi,Suite,92,129,899668
+2024-02-12,Mumbai,Radisson,Standard,106,131,1360086
+2024-02-12,Mumbai,Clarks,Suite,23,126,102143
+2024-02-12,Mumbai,ITC Maurya,Standard,57,106,647406
+2024-02-12,Mumbai,Maruya,Standard,72,116,876888
+2024-02-12,Mumbai,Leela,Deluxe,36,135,311256
+2024-02-12,Mumbai,Oberoi,Standard,98,136,503524
+2024-02-12,Kolkata,Radisson,Standard,46,65,296884
+2024-02-12,Kolkata,Clarks,Suite,57,105,236037
+2024-02-12,Kolkata,ITC Maurya,Standard,81,131,782541
+2024-02-12,Kolkata,Maruya,Suite,103,137,1284616
+2024-02-12,Kolkata,Leela,Deluxe,41,85,244647
+2024-02-12,Kolkata,Oberoi,Standard,129,142,896034
+2024-02-13,Delhi,Radisson,Deluxe,28,78,254100
+2024-02-13,Delhi,Clarks,Standard,97,130,1089310
+2024-02-13,Delhi,ITC Maurya,Standard,66,78,736230
+2024-02-13,Delhi,Maruya,Deluxe,72,97,484056
+2024-02-13,Delhi,Leela,Standard,28,89,302848
+2024-02-13,Delhi,Oberoi,Standard,30,73,172860
+2024-02-13,Mumbai,Radisson,Standard,97,118,391880
+2024-02-13,Mumbai,Clarks,Suite,111,127,1310244
+2024-02-13,Mumbai,ITC Maurya,Deluxe,60,145,431880
+2024-02-13,Mumbai,Maruya,Suite,35,114,228340
+2024-02-13,Mumbai,Leela,Deluxe,49,107,448546
+2024-02-13,Mumbai,Oberoi,Suite,69,123,378948
+2024-02-13,Kolkata,Radisson,Suite,24,80,323784
+2024-02-13,Kolkata,Clarks,Standard,63,126,702828
+2024-02-13,Kolkata,ITC Maurya,Standard,80,132,1060000
+2024-02-13,Kolkata,Maruya,Standard,115,147,1318820
+2024-02-13,Kolkata,Leela,Suite,59,106,624279
+2024-02-13,Kolkata,Oberoi,Deluxe,34,106,365432
+2024-02-14,Delhi,Radisson,Deluxe,70,80,963550
+2024-02-14,Delhi,Clarks,Standard,70,88,409220
+2024-02-14,Delhi,ITC Maurya,Suite,23,87,219075
+2024-02-14,Delhi,Maruya,Standard,105,126,440265
+2024-02-14,Delhi,Leela,Deluxe,20,114,266040
+2024-02-14,Delhi,Oberoi,Deluxe,41,65,317176
+2024-02-14,Mumbai,Radisson,Deluxe,31,76,400551
+2024-02-14,Mumbai,Clarks,Suite,38,67,283138
+2024-02-14,Mumbai,ITC Maurya,Deluxe,76,124,1051536
+2024-02-14,Mumbai,Maruya,Standard,33,99,310530
+2024-02-14,Mumbai,Leela,Standard,75,143,735600
+2024-02-14,Mumbai,Oberoi,Standard,68,120,362100
+2024-02-14,Kolkata,Radisson,Standard,27,121,233550
+2024-02-14,Kolkata,Clarks,Standard,58,149,251720
+2024-02-14,Kolkata,ITC Maurya,Standard,83,108,787006
+2024-02-14,Kolkata,Maruya,Deluxe,43,68,383216
+2024-02-14,Kolkata,Leela,Standard,43,76,295238
+2024-02-14,Kolkata,Oberoi,Suite,74,98,526288
+2024-02-15,Delhi,Radisson,Suite,30,72,165510
+2024-02-15,Delhi,Clarks,Suite,32,70,244128
+2024-02-15,Delhi,ITC Maurya,Standard,59,60,720390
+2024-02-15,Delhi,Maruya,Standard,67,71,673216
+2024-02-15,Delhi,Leela,Standard,122,149,608414
+2024-02-15,Delhi,Oberoi,Deluxe,27,128,333855
+2024-02-15,Mumbai,Radisson,Suite,66,89,311916
+2024-02-15,Mumbai,Clarks,Standard,103,106,1132279
+2024-02-15,Mumbai,ITC Maurya,Deluxe,87,125,434043
+2024-02-15,Mumbai,Maruya,Standard,38,95,219412
+2024-02-15,Mumbai,Leela,Standard,134,135,898068
+2024-02-15,Mumbai,Oberoi,Standard,21,98,190134
+2024-02-15,Kolkata,Radisson,Standard,85,133,496570
+2024-02-15,Kolkata,Clarks,Suite,29,136,379929
+2024-02-15,Kolkata,ITC Maurya,Deluxe,92,110,1062048
+2024-02-15,Kolkata,Maruya,Suite,22,87,157410
+2024-02-15,Kolkata,Leela,Deluxe,21,86,118188
+2024-02-15,Kolkata,Oberoi,Deluxe,35,62,365365
